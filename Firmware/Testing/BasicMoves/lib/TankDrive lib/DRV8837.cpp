@@ -10,6 +10,7 @@ DRV8837::DRV8837(unsigned char IN1_PIN, unsigned char IN2_PIN, unsigned char ch0
     updateInterval = 100; //100ms
     bitWidth = 10;
     pwmFreq = 5000;
+    
     ledcSetup(IN1_Channel, pwmFreq, bitWidth); //default 5khz, 10bit PWM
     ledcSetup(IN2_Channel, pwmFreq, bitWidth); //default 5khz, 10bit PWM
     ledcAttachPin(IN1, ch0);
