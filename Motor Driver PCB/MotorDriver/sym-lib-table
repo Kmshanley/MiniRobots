@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 2020-07-16_00-29-16)(type Legacy)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/LDO - MIC521633BM5TR/2020-07-16_00-29-16.lib")(options "")(descr ""))
+  (lib (name LB1973JA-AH)(type Legacy)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/StepperDriver-LB1973JA-AH/LB1973JA-AH.lib")(options "")(descr ""))
+  (lib (name ESP32-WROVER-I)(type Legacy)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/ESP32-WROVER-I/ESP32-WROVER-I.lib")(options "")(descr ""))
+  (lib (name HMC5883L)(type Legacy)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/HMC5883L/HMC5883L.lib")(options "")(descr ""))
+)

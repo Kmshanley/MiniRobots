@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ESP32-WROVER-I)(type KiCad)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/ESP32-WROVER-I")(options "")(descr ""))
+  (lib (name HMC5883L)(type KiCad)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/HMC5883L")(options "")(descr ""))
+  (lib (name "LDO - MIC521633BM5TR")(type KiCad)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/LDO - MIC521633BM5TR")(options "")(descr ""))
+  (lib (name StepperDriver-LB1973JA-AH)(type KiCad)(uri "D:/Projects[Krak]/MiniRobots/Motor Driver PCB/Parts/StepperDriver-LB1973JA-AH")(options "")(descr ""))
+)
