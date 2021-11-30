@@ -1809,4 +1809,6 @@ Wire Wire Line
 	3450 3000 3350 3000
 Text Notes 3300 2800 0    50   ~ 0
 Connected to Intigrated SPI Flash
+Text Notes 3800 3200 0    50   ~ 0
+GPIO 34 -39 cannot generate PWM?
 $EndSCHEMATC
